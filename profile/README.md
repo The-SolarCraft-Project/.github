@@ -14,3 +14,4 @@ You can also mint NFTs, list them, remove them from listing, buy other NFTs and 
 
 DEMO: [Video](https://vimeo.com/832879154?share=copy)
 
+Try it: [SolarCraft](https://solarcraft.netlify.app)
